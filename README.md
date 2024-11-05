@@ -14,11 +14,15 @@ Bu uygulama, Python ve Tkinter kullanılarak geliştirilmiş basit bir kişi reh
 
 ## 🛠️ Kurulum
 
-1. Bu projeyi yerel makinenize klonlayın:
+1. Bu projeyi bilgisayarınıza klonlayın:
     ```bash
     git clone https://github.com/ayazdoruck/python-kisi-rehberi.git
     ```
-2. Uygulamayı çalıştırın:
+2. Projenin klasörüne girin:
+    ```bash
+    cd python-kisi-rehberi-main
+    ```
+3. Uygulamayı çalıştırın:
     ```bash
     python app.py
     ```
