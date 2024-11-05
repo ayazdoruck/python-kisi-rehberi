@@ -20,7 +20,7 @@ Bu uygulama, Python ve Tkinter kullanılarak geliştirilmiş basit bir kişi reh
     ```
 2. Projenin klasörüne girin:
     ```bash
-    cd python-kisi-rehberi-main
+    cd python-kisi-rehberi
     ```
 3. Uygulamayı çalıştırın:
     ```bash
